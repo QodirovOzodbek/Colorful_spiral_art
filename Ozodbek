@@ -1,0 +1,20 @@
+# Colorful Spiral Art 🌀🌈
+
+This project generates a colorful, spiral-like art using Python's `turtle` graphics and HSV color system.
+
+## 🔧 Technologies Used
+
+- Python 3
+- Turtle graphics
+- `colorsys` module for HSV color mapping
+
+## 📸 Preview
+
+You can run the code and see dynamic rainbow spiral designs animated in real time.
+
+## 🚀 How to Run
+
+1. Make sure Python 3 is installed.
+2. Run this command in your terminal:
+   ```bash
+   python main.py
